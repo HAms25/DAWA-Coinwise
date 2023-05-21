@@ -11169,12 +11169,12 @@ footer a:hover, footer a:active, footer a:focus {
     height: auto; 
 }
 .feature {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  height: 4rem;
-  width: 4rem;
-  font-size: 2rem;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    height: 4rem;
+    width: 4rem;
+    font-size: 1.5rem;
 }
 
 
